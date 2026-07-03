@@ -1,0 +1,27 @@
+[
+    {
+        "name": "jessica",
+        "age": 19,
+        "course": "python"
+    },
+    {
+        "name": "rahul",
+        "age": 20,
+        "course": "c+++"
+    },
+    {
+        "name": "priya",
+        "age": 33,
+        "course": "java"
+    },
+    {
+        "name": "jessccca",
+        "age": 90,
+        "course": "python"
+    },
+    {
+        "name": "jimin",
+        "age": 30,
+        "course": "bts"
+    }
+]
